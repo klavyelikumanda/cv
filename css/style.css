@@ -1,6 +1,6 @@
 
   body {
-    background-color: #143F6B85;
+    background-color: grey;
   }
 
   hr {
@@ -9,6 +9,14 @@
     border-style: none none dotted;
     height: 2px;
     width: 10%;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
   }
 
 img {
