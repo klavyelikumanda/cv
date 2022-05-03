@@ -1,0 +1,16 @@
+
+  body {
+    background-color: #143F6B85;
+  }
+
+  hr {
+    border: 10px ;
+    color: #EEEEEE60;
+    border-style: none none dotted;
+    height: 2px;
+    width: 10%;
+  }
+
+img {
+height: 200px;
+}
